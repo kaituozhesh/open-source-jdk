@@ -1,0 +1,11 @@
+.idea
+log/
+target/
+*.iml
+*.log
+log.*
+mvnw.cmd
+mvnw
+gm2-data-bi-api/target/
+gm2-data-bi/target
+/etc
